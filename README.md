@@ -28,7 +28,7 @@
 - [ ] Analisador de pacotes HTTP / DNS.
 - [ ] DNS Spoofing (injeção).
 - [ ] ICMP Spoofing (redirect).
-- [ ] Melhorar descodificação ASN.1 LDAP (Trocar biblioteca).
+- [ ] **TO DO:** Melhorar descodificação ASN.1 LDAP (Trocar biblioteca).
 
 *Responsável: João Alonso*
 </details>
