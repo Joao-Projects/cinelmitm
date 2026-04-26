@@ -1,7 +1,7 @@
 
 ┌─────────────────────────────┐
 
-│ cinelmitm v1.1 - canivete suiço p/ pentesting │
+│ cinelmitm v1.1 - canivete suiço p/ pentesting  │
 
 └─────────────────────────────┘
 
